@@ -10,6 +10,8 @@
 
 A high-performance, interactive 3D web application that visualizes five Swiss locations that inspired J.R.R. Tolkien's Middle-earth. Experience cinematic map transitions, hover tooltips, and a toggleable "Fantasy Overlay" that transforms real-world topography into mythic landscapes.
 
+<img width="1570" height="942" alt="Screenshot 2025-11-02 235727" src="https://github.com/user-attachments/assets/e1378725-b74d-44dd-b10f-a706b8340f28" />
+
 ## ✨ Features
 
 - **3D Globe Rendering**: Immersive Mapbox GL JS 3D globe centered on Switzerland
