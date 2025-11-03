@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Lauterbrunnen Valley",
+    "coords": [7.9, 46.6],
+    "image": "/images/lauterbrunnen.jpg",
+    "real": "A hidden valley in Switzerland that inspired Rivendell.",
+    "mythic": "Home of the Elves in Middle-earth, nestled between waterfalls."
+  },
+  {
+    "name": "Jungfrau Massif",
+    "coords": [7.98, 46.6],
+    "image": "/images/jungfrau.jpg",
+    "real": "Tolkien climbed here in 1911; inspired the Misty Mountains.",
+    "mythic": "Vast snow-capped peaks dividing lands of elves and dwarves."
+  },
+  {
+    "name": "Aletsch Glacier",
+    "coords": [8.0, 46.4],
+    "image": "/images/aletsch.jpg",
+    "real": "Switzerland's largest glacier; Tolkien crossed it on foot.",
+    "mythic": "Echoes the frozen north of Middle-earth, realm of the Forodwaith."
+  },
+  {
+    "name": "Zermatt / Matterhorn",
+    "coords": [7.7, 46.0],
+    "image": "/images/zermatt.jpg",
+    "real": "Iconic alpine peak, symbolizing endurance and solitude.",
+    "mythic": "Likened to Erebor, the Lonely Mountain in The Hobbit."
+  },
+  {
+    "name": "Grimsel Pass",
+    "coords": [8.3, 46.6],
+    "image": "/images/grimsel.jpg",
+    "real": "High alpine pass Tolkien descended during his 1911 trip.",
+    "mythic": "Resembles the Fellowship's dangerous mountain crossings."
+  }
+]
+
